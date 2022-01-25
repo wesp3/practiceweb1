@@ -1,8 +1,9 @@
 // alert()
 // let x = confirm(`tratratrta`)
 // console.log(x)
-// let x = prompt(`text`, 0)
-// console.log(x)
+ //let x = prompt(`text`, 0)
+//  let y = typeof x;
+// console.log(y)
 
 //FUNCTIONS
 //regular
@@ -51,3 +52,14 @@
 //     }
 //     i++
 // }
+
+// for (let i = 0; i < 100; i++) {
+//     if (i % 7 == 0 ) {
+//     console.log('boom')
+//     }
+//     else if (i.toString().match(/7/)){
+//     console.log('boom1');
+//     }
+//     console.log(i);
+// }
+
